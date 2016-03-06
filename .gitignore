@@ -30,4 +30,9 @@
 *.cproject
 *.project
 
-erlvpn
+
+/Debug/
+/Release
+/Default/
+.settings/
+.d

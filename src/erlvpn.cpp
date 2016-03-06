@@ -10,6 +10,8 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("ERLVPN v1");
+	puts("ERLVNC v1");
 	return EXIT_SUCCESS;
 }
+
+
